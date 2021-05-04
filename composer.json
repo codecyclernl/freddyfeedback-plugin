@@ -1,0 +1,8 @@
+{
+    "name": "codecycler/freddyfeedback-plugin",
+    "type": "october-plugin",
+    "description": "Freddy Feedback integration for October CMS",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}

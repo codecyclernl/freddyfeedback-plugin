@@ -1,0 +1,18 @@
+fields:
+  use_on_backend:
+    label: Use on backend
+    span: left
+    type: switch
+  installation_hint:
+    label: ''
+    type: partial
+    path: $/codecycler/freddyfeedback/models/settings/_installation_hint.htm
+    span: right
+  widget_id:
+    label: Widget ID
+    type: text
+    span: left
+    trigger:
+      action: show
+      field: use_on_backend
+      condition: checked
