@@ -20,6 +20,18 @@ The plugin comes with an easy settings page you can access from the backend.
 ### Settings page
 Navigate to the settings page. You should see 'Freddy Feedback' right at the bottom of the side menu.
 
+### Embed in backend
+You can embed a widget in the backend by filling in the settings as described in the section above. 
+
+### Embed in your site
+You can embed a widget on the frontend. You can either embed it in a layout or in a page. Go to the website editor and go to the page or layout want the widget to be embedded in. 
+
+1. Click on the components button and click on the Freddy Feedback Widget component.
+
+2. Once the component is added to your cms object, you can click on it in the toolbar right above the code section of the cms object. You'll find a few settings which you can use to configure the component.
+
+Make sure you've added the `{% scripts %}` tag to your layout!
+
 ## License
 &copy; 2021, [Codecycler](https://codecycler.com) under [GNU GPL v3](https://opensource.org/licenses/GPL-3.0). <br />
 
