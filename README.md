@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://www.freddyfeedback.com" target="_blank"><img width="130" src="/plugins/codecycler/freddyfeedback/icon.png"></a>
+    <a href="https://www.freddyfeedback.com" target="_blank"><img width="130" src="https://freddyfeedback.com/brand/freddy-1.png?v=2"></a>
 </p>
 
 ## Installation
