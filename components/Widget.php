@@ -27,4 +27,9 @@ class Widget extends ComponentBase
     {
         $this->addJs('/freddyfeedback/script.js?widgetId=' . $this->property('ffWidgetId'));
     }
+
+    public function onRender()
+    {
+        return $this->renderPartial('@inline');
+    }
 }
