@@ -32,6 +32,9 @@ You can embed a widget on the frontend. You can either embed it in a layout or i
 
 Make sure you've added the `{% scripts %}` tag to your layout!
 
+## More information
+For more information, please visit the Freddy Feedback website at [https://freddyfeedback.com](https://freddyfeedback.com). 
+
 ## License
 &copy; 2021, [Codecycler](https://codecycler.com) under [GNU GPL v3](https://opensource.org/licenses/GPL-3.0). <br />
 
